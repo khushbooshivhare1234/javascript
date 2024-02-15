@@ -1,0 +1,29 @@
+div{
+      
+    background-color: aquamarine;
+    color: blue;
+    border: 2px solid black;
+
+     
+}
+#btn1{
+    background-color: aliceblue;
+    font-size: large;
+    margin: 5px;
+    color:black;
+}
+#btn2{
+    background-color: aliceblue;
+    font-size: large;
+    margin: 5px;
+    color:black;
+}
+.dark {
+   background-color: black;
+   color: white;
+}
+
+.light {
+    background-color: white;
+    color: black;
+ }
